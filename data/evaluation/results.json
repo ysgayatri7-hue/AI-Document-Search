@@ -1,0 +1,15 @@
+{
+  "dataset_version": "1.0",
+  "label": "synthetic pipeline check \u2014 not a benchmark",
+  "prompt_injection": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "false_positive_rate": 0.0
+  },
+  "retrieval": null,
+  "claim_verification": null,
+  "latency": null,
+  "token_usage": null,
+  "estimated_cost": null
+}
